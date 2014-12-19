@@ -1,0 +1,8 @@
+/*
+ * 操作cookie插件
+ * 作者：Jake AuYeung
+ * 使用方法：
+ * 1，设置cookie：wltCookier(key, value, { expires: 21 })   // expires 过期时间(单位：天)
+ * 2，获取cookie：wltCookier(key)
+ * 3，删除cookie：wltCookier.remove(key)
+ */
